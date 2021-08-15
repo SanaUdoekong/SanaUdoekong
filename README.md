@@ -1,7 +1,13 @@
 - 👋 Hi, I’m Sana
-- 👀 I’m interested in software development
-- 🌱 I’m currently learning flutter
+- 👀 My interest is software development
+- 🌱 Mobile developer[flutter/dart]
 - 📫 Reach my by email via udoekongsana@gmail.com
+- Fun Facts:
+  - I'm an extroverted introvert
+  - Coding is my hobby
+  - I'm 15 years old
+ 
+ 
 
 
 <!---
