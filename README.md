@@ -2,9 +2,10 @@
 - 👀 My interest is software development
 - 🌱 Mobile developer[flutter/dart]
 - 📫 Reach my by email via udoekongsana@gmail.com
-- Fun Facts:
-  - Coding is my hobby
+- 🙃 Fun Facts:
+  - Code
   - I'm 15 years old
+  - Chess freak
  
  
 
