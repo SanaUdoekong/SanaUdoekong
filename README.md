@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Sana
 - 👀 My interest is software development
-- 🌱 Mobile developer[flutter/dart]
+- 🌱 Flutter & Dart | Solidity | HTM, CSS & JS | Python
 - 📫 Reach my by email via udoekongsana@gmail.com
 - 🙃 Fun Facts:
   - Code
