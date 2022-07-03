@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Sana
+F- 👋 Hi, I’m Sana
 - 👀 My interest is software development
-- 🌱 Flutter & Dart | Solidity | HTMl, CSS| Python(Django)
+- 🌱 Flutter & Dart | Solidity | HTML, CSS| Python(Django)
 - 📫 Reach my by email via udoekongsana@gmail.com
 - 🙃 Fun Facts:
   - Code
