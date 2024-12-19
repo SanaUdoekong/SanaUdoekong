@@ -1,11 +1,8 @@
 👋 Hi, I’m Sana
 - 👀 My interests are software development, AI, and robotics
-- 🌱 Flutter & Dart | Solidity | HTML & CSS| Python(Django) | Java
+- 🌱 Flutter & Dart | Solidity | HTML & CSS | Python(Django) | Java
 - 📫 Reach me by email via udoekongsana@gmail.com
-- 🙃 Fun Facts:
-  - I love coding
-  - I'm 17 years old
-  - Chess freak
+
  
  
 
