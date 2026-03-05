@@ -1,6 +1,5 @@
 👋 Hi, I’m Sana
-- 👀 My interests are software development, AI, and robotics
-- 🌱 Flutter & Dart | Solidity | HTML & CSS | Python(Django) | Java
+- 👀 My interests are software development, systems engineering, and embedded AI
 - 📫 Reach me by email via udoekongsana@gmail.com
 
  
