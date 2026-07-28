@@ -1,6 +1,4 @@
-👋 Hi, I’m Sana
-- 👀 My interests are software development, systems engineering, and embedded AI
-- 📫 Reach me by email via udoekongsana@gmail.com
+
 
  
  
